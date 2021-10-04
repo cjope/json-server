@@ -42,8 +42,8 @@
     "yargs": "^17.0.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.5",
     "@babel/node": "^7.12.6",
     "@babel/preset-env": "^7.12.1",
     "cross-env": "^7.0.2",
